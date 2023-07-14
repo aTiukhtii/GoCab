@@ -1,4 +1,4 @@
-# <div style="font-size:40px; text-align:center">**GoCab** :oncoming_taxi:</div>
+# <div style="font-size:40px; text-align:center">**GoCab app** :oncoming_taxi:</div>
 ##  :speech_balloon: Description
 `This is a simple web application with the ability to authorize, register, and perform other CRUD operations.
 This taxi service has users (drivers) who have cars. In addition, you can create cars with their manufacturers.
