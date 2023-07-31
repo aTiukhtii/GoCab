@@ -3,18 +3,20 @@ package taxi.model;
 import java.util.Objects;
 
 public class Driver {
-    private String login;
-    private String password;
     private Long id;
     private String name;
     private String licenseNumber;
+    private String login;
+    private String password;
 
     public Driver() {
     }
 
-    public Driver(String name, String licenseNumber) {
+    public Driver(String name, String licenseNumber, String login, String password) {
         this.name = name;
         this.licenseNumber = licenseNumber;
+        this.login = login;
+        this.password = password;
     }
 
     public String getLogin() {

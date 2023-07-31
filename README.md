@@ -32,7 +32,6 @@ There are also relations between the tables. The complete database structure is 
 - Servlet API
 - JSP/JSTL
 - HTML
-- Log4j2
 
 ## :zap: Setting up
 1. First of all, you need to prepare the database. (For developing this web application, MySQL was used.) Create a schema and copy everything from the `resources/init_db.sql` file, then execute it in your DBMS.
